@@ -1,0 +1,3 @@
+[submodule "third_party/uformer"]
+	path = third_party/uformer
+	url = https://github.com/ZhendongWang6/Uformer
